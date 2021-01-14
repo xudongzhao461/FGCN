@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ### dataset utilization
 
-**Please modify line 10-23 in *data_util_c.py* for the dataset details.**
+**Please modify line 49-60 in *MUUFL-20200601.py* for the dataset details.**
 
 ### Training
 
@@ -45,7 +45,7 @@ All the results are cited from original paper. More details can be found in the 
 |---------- |-------  |--------|
 | MUUFL    | 86.90%| 89.90% |
 | Houston  | 98.38%| 98.50%|
-| Trento    | 99.09%| 99.326% |
+| Trento    | 99.09%| 99.32% |
 ## Citation
 
 Coming Soon
