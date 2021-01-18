@@ -6,13 +6,6 @@ This example implements the paper in review [Fractional Gabor Convolutional Netw
 
 A Fractional Gabor Convolutional Network for Multi-source Remote Sensing Data Classification. Evaluated on the dataset of Houston, Trento and MUUFL. 
 
-## Prerequisites
-- Python 2.7 or 3.6
-- Packages
-```
-pip install -r requirements.txt
-```
-
 ## Usage
 
 ### Data set links
@@ -29,11 +22,11 @@ pip install -r requirements.txt
 
 ### dataset utilization
 
-**Please modify line 49-60 in *MUUFL-20200601.py* for the dataset details.**
+**Please modify line 48-59 in *demoMUUFL.py* for the dataset details.**
 
 ### Training
 
-Train the merged HSI and LiDAR-based DSM
+Train the HSI and LiDAR-based DSM
 ```
 python demo.py 
 ```
