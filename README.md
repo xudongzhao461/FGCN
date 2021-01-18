@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 Train the merged HSI and LiDAR-based DSM
 ```
-python main.py 
+python demo.py 
 ```
 
 ## Results
