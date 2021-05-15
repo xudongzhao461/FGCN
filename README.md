@@ -39,8 +39,21 @@ All the results are cited from original paper. More details can be found in the 
 | MUUFL    | 86.90%| 89.90% |
 | Houston  | 98.38%| 98.50%|
 | Trento    | 99.09%| 99.32% |
+
 ## Citation
 
-Coming Soon
+Please kindly cite the papers if this code is useful and helpful for your research.
+
+X. Zhao, R. Tao, W. Li, W. Philips and W. Liao, "Fractional Gabor Convolutional Network for Multisource Remote Sensing Data Classification," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3065507.
+```
+@ARTICLE{9383794,  
+  author={Zhao, Xudong and Tao, Ran and Li, Wei and Philips, Wilfried and Liao, Wenzhi},  
+  journal={IEEE Transactions on Geoscience and Remote Sensing},   
+  title={Fractional Gabor Convolutional Network for Multisource Remote Sensing Data Classification},   
+  year={2021},  volume={},  number={},  pages={1-18},  
+  doi={10.1109/TGRS.2021.3065507}
+  }
+
+```
 
 
